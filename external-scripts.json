@@ -11,6 +11,7 @@
   "hubot-shipit",
   "hubot-wikipedia",
   "hubot-youtube",
-  "hubot-javascript"
+  "hubot-javascript",
+  "hubot-heroku-keepalive"
 ]
 
